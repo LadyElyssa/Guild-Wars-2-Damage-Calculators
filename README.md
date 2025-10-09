@@ -1,7 +1,12 @@
 # Guild-Wars-2-Damage-Calculators
-These are Libre Office Calc Spreadsheets that provide some basic calculations to estimate the potential DPS including suggestions for **Food** and **Consumables** based purely on the stats provided.
+These are Libre Office Calc Spreadsheets (.ods) that provide some basic calculations to estimate the potential DPS including suggestions for **Food** and **Consumables** based purely on the stats provided.
 
-## Combat Calcs - In Beta
+## Simple pDPS / cDPS Calcs
+
+The Simple Calcs are usable as is.
+
+
+## Combat Calcs pDPS - In Beta
 
 These are still undergoing development, so there may still be some housekeeping to be done. It uses imported data from the API in order to help keep things up to date with each balance patch. This is currently done manually by exporting the API JSON Data to XML files and then converting them to CSV so they can be imported in to the spreadsheet. I have included the .CSV files here for easy access up to build version 115267.
 
